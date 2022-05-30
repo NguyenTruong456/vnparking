@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\CTDLGT"
+		},
+		{
+			"path": "..\\Demo"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\GiuaKiWed"
+		},
+		{
+			"path": "..\\JavaScript"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "DACS"
+	}
+}
